@@ -1,0 +1,14 @@
+input {
+    margin: 10px;
+    background-color: #efefef;
+    border: solid 3px #7fc5e3;
+}
+label {
+    font-style: italic ;
+    font-weight: bold;
+    color: #bdbab8
+}
+ h1 , h3 {
+    color: #dc514c
+}
+
